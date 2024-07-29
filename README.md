@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Transparent&section=header&height=300&text=Hello&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=90&fontColor=ffffff&desc=It's%20Leecarrot%20GitHub)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=capsule%20render)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeecarrot&count_bg=%23232222&title_bg=%23DB1717&icon=&icon_color=%23F3EBE9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
