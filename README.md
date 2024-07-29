@@ -5,7 +5,7 @@
 <div align="center">
   Hi there Hello, I'm Lee Dong-geun, majoring in AI big data & management at Kookmin University👋
 </div>
-
+[![Leecarrot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leecarrot)](https://github.com/Leecarrot/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qpy6020)](https://solved.ac/qpy6020/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leecarrot&show_icons=true&theme=radical)
 <!--
