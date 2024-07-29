@@ -8,6 +8,11 @@
   <h4>I'm a student who wants to be a data analyst.</h4>
 </div>
 
+## 💡 Certificate
+| 취득 연도 | 자격증 | 주관 | 유효기간 |
+| :------: | :------: | :------: | :------: |
+| 2021 | 데이터분석 준전문가(ADsP) | 한국데이터산업진흥원 | 영구 |
+
 ## 💡 github stats
 <p>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leecarrot&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
@@ -19,13 +24,12 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qpy6020)](https://solved.ac/qpy6020)<br/>
 
 ## 💡 Certificate
-  
 | 취득 연도 | 자격증 | 주관 | 유효기간 |
 | :------: | :------: | :------: | :------: |
 | 2021 | 데이터분석 준전문가(ADsP) | 한국데이터산업진흥원 | 영구 |
-  
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>
 
 <!--
