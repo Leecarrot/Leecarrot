@@ -8,6 +8,9 @@
   <h4>I'm a student who wants to be a data analyst.</h4>
 </div>
 
+## 💡 Competition
+
+
 ## 💡 Certificate
 | 취득 연도 | 자격증 | 주관 | 유효기간 |
 | :------: | :------: | :------: | :------: |
