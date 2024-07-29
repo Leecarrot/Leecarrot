@@ -8,7 +8,13 @@
   <h4>I'm a student who wants to be a data analyst.</h4>
 </div>
 
-## 💡 Competition
+## 💡 Education
+| 기간 | 학교 | 전공 | 학위 | 비고 |
+| :----------- | :------------: | :------------: | :------------: | ------------: |
+| 2019.03 ~ 2025.02  |  국민대학교  |  AI빅데이터융합경영학과 | 제 1전공 | 재학 |
+
+
+## 💡 Project & Competition
 
 
 ## 💡 Certificate
@@ -20,7 +26,7 @@
 
 <br/>
 
-## 💡 github stats
+## 💡 Github stats
 <p>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leecarrot&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leecarrot&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
