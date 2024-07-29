@@ -2,14 +2,12 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeecarrot&count_bg=%23232222&title_bg=%23DB1717&icon=&icon_color=%23F3EBE9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qpy6020)](https://solved.ac/qpy6020/)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leecarrot&show_icons=true&theme=radical)
-
 <div align="center">
   Hi there Hello, I'm Lee Dong-geun, majoring in AI big data & management at Kookmin University👋
 </div>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qpy6020)](https://solved.ac/qpy6020/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leecarrot&show_icons=true&theme=radical)
 <!--
 **Leecarrot/Leecarrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
