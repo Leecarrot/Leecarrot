@@ -5,7 +5,7 @@
 
   ## Hi there, I'm Donggeun
   <h4>Hi there Hello, I'm Lee Dong-geun, majoring in AI big data & management at Kookmin University👋</h4>
-  <h4>I'm a student who wants to be a data analyst.</h4>
+  <h4>I'm a student who wants to be a data scientist.</h4>
 </div>
 
 ## 💡 Education
