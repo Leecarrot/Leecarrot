@@ -13,11 +13,15 @@
 | :------: | :------: | :------: | :------: |
 | 2021 | 데이터분석 준전문가(ADsP) | 한국데이터산업진흥원 | 영구 |
 
+<br/>
+
 ### 💡 github stats
 <p>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leecarrot&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leecarrot&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
+
+<br/>
 
 ### 💡 Baekjun
 
