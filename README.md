@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leecarrot&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   </p>
 
-  <h5>my </h5>
+  <h5>💡 Baekjun</h5>
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qpy6020)](https://solved.ac/qpy6020)<br/>
   
