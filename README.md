@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=capsule%20render)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeecarrot&count_bg=%23232222&title_bg=%23DB1717&icon=&icon_color=%23F3EBE9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div align="center">
   Hi there Hello, I'm Lee Dong-geun, majoring in AI big data & management at Kookmin University👋
