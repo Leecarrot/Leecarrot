@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=90&fontColor=ffffff&desc=It's%20Leecarrot%20GitHub)
 
 <div align="center">
-### Hi there Hello, I'm Lee Dong-geun, majoring in AI big data & management at Kookmin University👋
+  Hi there Hello, I'm Lee Dong-geun, majoring in AI big data & management at Kookmin University👋
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leecarrot&show_icons=true&theme=radical)
