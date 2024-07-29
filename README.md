@@ -7,17 +7,17 @@
   <h4>Hi there Hello, I'm Lee Dong-geun, majoring in AI big data & management at Kookmin University👋</h4>
   <h4>I'm a student who wants to be a data analyst.</h4>
 
-  # 💡 github stats
+  ## 💡 github stats
   <p>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leecarrot&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leecarrot&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   </p>
 
-  # 💡 Baekjun
+  ## 💡 Baekjun
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qpy6020)](https://solved.ac/qpy6020)<br/>
 
-  # 💡 Certificate
+  ## 💡 Certificate
   
 | 취득 연도 | 자격증 | 주관 | 유효기간 |
 | :------: | :------: | :------: | :------: |
