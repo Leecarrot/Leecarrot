@@ -5,14 +5,14 @@
   
   <h4>Hi there Hello, I'm Lee Dong-geun, majoring in AI big data & management at Kookmin University👋</h4>
 
-  <h3>💡 github stats</h3>
+  <h4>💡 github stats</h4>
   
   <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leecarrot&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leecarrot&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   </p>
 
-  <h3>💡 Baekjun</h3>
+  <h4>💡 Baekjun</h4>
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qpy6020)](https://solved.ac/qpy6020)<br/>
   
