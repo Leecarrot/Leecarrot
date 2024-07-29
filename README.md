@@ -3,7 +3,7 @@
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeecarrot&count_bg=%23E35D93&title_bg=%23E11452&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
-  <span style="font-size: 30px;">Hi there Hello, I'm Lee Dong-geun, majoring in AI big data & management at Kookmin University👋</span>
+  <span style="font-size: 80px;">Hi there Hello, I'm Lee Dong-geun, majoring in AI big data & management at Kookmin University👋</span>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leecarrot&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leecarrot&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
