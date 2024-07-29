@@ -8,7 +8,10 @@
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leecarrot&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leecarrot&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
+
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qpy6020)](https://solved.ac/qpy6020/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leecarrot&show_icons=true&theme=radical)
