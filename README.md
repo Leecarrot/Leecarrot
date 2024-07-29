@@ -12,6 +12,7 @@
 | 취득 연도 | 자격증 | 주관 | 유효기간 |
 | :------: | :------: | :------: | :------: |
 | 2021 | 데이터분석 준전문가(ADsP) | 한국데이터산업진흥원 | 영구 |
+
 <br/>
 
 ### 💡 github stats
@@ -23,8 +24,8 @@
 <br/>
 
 ### 💡 Baekjun
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qpy6020)](https://solved.ac/qpy6020)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qpy6020)](https://solved.ac/qpy6020)
+<br/>
 
 ### 💡 Certificate
 | 취득 연도 | 자격증 | 주관 | 유효기간 |
