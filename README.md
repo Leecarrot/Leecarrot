@@ -24,7 +24,7 @@
 | 2023 | 도서관 빅데이터 우수 활용사례 및 아이디어 공모전 |  미디어가 아동의 도서 선택에 미치는 영향  |
 | 2023 | Deep Learning |  LSTM을 활용한 제주 농산물 가격 예측          |
 | 2023 | Multivariate Statistics | Air bnb 데이터를 이용한 숙소평점에 영향을 미치는 요인 |
-| 2023 | Marketing Analytics | Air bnb cleaning fee Redefine |
+| 2023 | Marketing Analytics | Air bnb cleaning fee redefine |
 | 2023 | D&A Conference session |  한국농인을 위한 수어 통역 시스템 구축 |
 | 2024 | 강서구 빅데이터 분석 공모전 |  강서구 화곡동 내 분리수거함 최적 입지선정 |
 | 2024 | 캡스톤 디자인 (기업연계 프로젝트) |  고객구매여정을 통한 nasmedia 기여 고객군 선별 |
