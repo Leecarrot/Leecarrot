@@ -17,11 +17,11 @@
 
 
 ## 💡 Project & Competition
-| 연도 | 프로젝트명 | 주제 |
-| :------: | :----------: | :------: |
-| 2023 | Text Data Analysis |  web crawling and text data analysis (경제 키워드를 중심으로) |
-| 2023 | 2023 BDA 데이터 분석활〮용 공모전 | CJ 더마켓 모델링 분석기획서 |
-| 2023 | 도서관 빅데이터 우수 활용사례 및 아이디어 공모전 |  미디어가 아동의 도서 선택에 미치는 영향  |
+| 연도 | 프로젝트명 | 주제 | 주관 |
+| :------: | :----------: | :------: | :------: | 
+| 2023 | Text Data Analysis |  web crawling and text data analysis (경제 키워드를 중심으로) | 국민대학교 |
+| 2023 | 2023 BDA 데이터 분석활〮용 공모전 | CJ 더마켓 모델링 분석기획서 | CJ 제일제당 |
+| 2023 | 도서관 빅데이터 우수 활용사례 및 아이디어 공모전 |  미디어가 아동의 도서 선택에 미치는 영향  | 국립중앙도서관 |
 | 2023 | Deep Learning |  LSTM을 활용한 제주 농산물 가격 예측          |
 | 2023 | Multivariate Statistics | Air bnb 데이터를 이용한 숙소평점에 영향을 미치는 요인 |
 | 2023 | Marketing Analytics | Air bnb cleaning fee redefine |
